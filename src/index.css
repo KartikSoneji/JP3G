@@ -15,7 +15,7 @@ code {
 }
 body{
   background-image: url(https://i.ibb.co/1ZfGLFf/Just-another-jpeg.png);
-  background-size: cover;
+  background-size: contain;
   background-position: center;
 }
 
